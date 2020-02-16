@@ -1,7 +1,7 @@
 {
   "name": "gun-engine",
   "version": "1.0.0",
-  "description": "The gin engine for making 3D Games in the browser",
+  "description": "The gun engine for making 3D Games in the browser",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "author": "Heavenstone",
